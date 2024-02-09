@@ -20,3 +20,15 @@ Jumlah <- c(Apel=5, Jeruk=NA, Rambutan=6, Salak=7)
 
 
 is.na(Jumlah)
+
+
+# Integer
+apel <- 2L
+
+# Ubah menjadi numerik
+as.numeric(apel)
+
+# Cek
+is.numeric(apel)
+
+
